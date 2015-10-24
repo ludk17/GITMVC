@@ -20,6 +20,8 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -129,14 +131,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Nombres\la.cs" />
-    <Compile Include="Nombres\MendozaEscalante.cs" />
 <<<<<<< HEAD
-    <Compile Include="Nombres\OdarJuaregui.cs" />
+    <Compile Include="Nombres\la.cs" />
 =======
+    <Compile Include="Nombres\ChavezHinostroza.cs" />
+>>>>>>> 98fb09c450a8ae6c40f4812da223a0999f3577f4
+    <Compile Include="Nombres\MendozaEscalante.cs" />
+    <Compile Include="Nombres\OdarJuaregui.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
     <Compile Include="Nombres\OlanoPastor.cs" />
->>>>>>> e1785d3306f27add869573b09968ca0b9fa78aa4
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -260,6 +263,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
