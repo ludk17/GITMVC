@@ -131,6 +131,7 @@
     </Compile>
     <Compile Include="Nombres\MendozaEscalante.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
+    <Compile Include="Nombres\OlanoPastor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
