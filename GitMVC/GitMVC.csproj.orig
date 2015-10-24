@@ -131,9 +131,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Nombres\ChavezSanchez.cs" />
-=======
     <Compile Include="Nombres\EscalanteLuis.cs" />
     <Compile Include="Nombres\la.cs" />
 >>>>>>> a823316edf0b3d9f51eda3e83206bd74e10cb43b
@@ -143,6 +141,11 @@
     <Compile Include="Nombres\SonGku.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
     <Compile Include="Nombres\OdarJuaregui.cs" />
+<<<<<<< HEAD
+    <Compile Include="Nombres\MoroPaalomino.cs" />
+=======
+    <Compile Include="Nombres\OdarJuaregui.cs" />
+>>>>>>> a823316edf0b3d9f51eda3e83206bd74e10cb43b
     <Compile Include="Nombres\OlanoPastor.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />

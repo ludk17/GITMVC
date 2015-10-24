@@ -139,6 +139,7 @@
     <Compile Include="Nombres\OlanoPastor.cs" />
     <Compile Include="Nombres\SonGku.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
+    <Compile Include="Nombres\MoroPaalomino.cs" />
     <Compile Include="Nombres\OdarJuaregui.cs" />
     <Compile Include="Nombres\OlanoPastor.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
