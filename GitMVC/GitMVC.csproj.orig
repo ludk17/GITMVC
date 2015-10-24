@@ -136,8 +136,11 @@
     <Compile Include="Nombres\ChavezHinostroza.cs" />
     <Compile Include="Nombres\MendozaEscalante.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
+<<<<<<< HEAD
     <Compile Include="Nombres\MoroPaalomino.cs" />
+=======
     <Compile Include="Nombres\OdarJuaregui.cs" />
+>>>>>>> a823316edf0b3d9f51eda3e83206bd74e10cb43b
     <Compile Include="Nombres\OlanoPastor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
