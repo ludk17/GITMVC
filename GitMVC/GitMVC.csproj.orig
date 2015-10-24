@@ -131,9 +131,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Nombres\EscalanteLuis.cs" />
+=======
     <Compile Include="Nombres\la.cs" />
     <Compile Include="Nombres\ChavezHinostroza.cs" />
+>>>>>>> 202772a30b8412dbe369ffa02f0ea468288a44ff
     <Compile Include="Nombres\MendozaEscalante.cs" />
     <Compile Include="Nombres\OdarJuaregui.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
