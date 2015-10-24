@@ -131,9 +131,12 @@
     </Compile>
     <Compile Include="Nombres\la.cs" />
     <Compile Include="Nombres\MendozaEscalante.cs" />
+<<<<<<< HEAD
     <Compile Include="Nombres\OdarJuaregui.cs" />
+=======
     <Compile Include="Nombres\MendozaLuis.cs" />
     <Compile Include="Nombres\OlanoPastor.cs" />
+>>>>>>> e1785d3306f27add869573b09968ca0b9fa78aa4
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
