@@ -136,7 +136,6 @@
     <Compile Include="Nombres\la.cs" />
     <Compile Include="Nombres\ChavezHinostroza.cs" />
     <Compile Include="Nombres\MendozaEscalante.cs" />
-    <Compile Include="Nombres\OlanoPastor.cs" />
     <Compile Include="Nombres\SonGku.cs" />
     <Compile Include="Nombres\MendozaLuis.cs" />
     <Compile Include="Nombres\MoroPaalomino.cs" />

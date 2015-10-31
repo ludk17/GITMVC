@@ -5,7 +5,7 @@ using System.Web;
 
 namespace GitMVC.Nombres
 {
-    public class OlanoPastor
-    {
-    }
+	public class OlanoPastor
+	{
+	}
 }
