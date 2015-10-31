@@ -1,0 +1,12 @@
+C:\MVCUnitTesting\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\MVCUnitTesting\DB\bin\Debug\DB.dll.config
+C:\MVCUnitTesting\DB\bin\Debug\DB.dll
+C:\MVCUnitTesting\DB\bin\Debug\DB.pdb
+C:\MVCUnitTesting\DB\bin\Debug\EntityFramework.dll
+C:\MVCUnitTesting\DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\MVCUnitTesting\DB\bin\Debug\MVC.Models.dll
+C:\MVCUnitTesting\DB\bin\Debug\MVC.Models.pdb
+C:\MVCUnitTesting\DB\bin\Debug\EntityFramework.xml
+C:\MVCUnitTesting\DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\MVCUnitTesting\DB\obj\Debug\DB.dll
+C:\MVCUnitTesting\DB\obj\Debug\DB.pdb

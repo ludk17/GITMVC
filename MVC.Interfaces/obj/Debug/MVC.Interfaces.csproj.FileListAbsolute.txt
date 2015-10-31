@@ -1,0 +1,7 @@
+C:\MVCUnitTesting\MVC.Interfaces\bin\Debug\MVC.Interfaces.dll
+C:\MVCUnitTesting\MVC.Interfaces\bin\Debug\MVC.Interfaces.pdb
+C:\MVCUnitTesting\MVC.Interfaces\bin\Debug\MVC.Models.dll
+C:\MVCUnitTesting\MVC.Interfaces\bin\Debug\MVC.Models.pdb
+C:\MVCUnitTesting\MVC.Interfaces\obj\Debug\MVC.Interfaces.csprojResolveAssemblyReference.cache
+C:\MVCUnitTesting\MVC.Interfaces\obj\Debug\MVC.Interfaces.dll
+C:\MVCUnitTesting\MVC.Interfaces\obj\Debug\MVC.Interfaces.pdb

@@ -1,0 +1,4 @@
+C:\MVCUnitTesting\MVC.Models\bin\Debug\MVC.Models.dll
+C:\MVCUnitTesting\MVC.Models\bin\Debug\MVC.Models.pdb
+C:\MVCUnitTesting\MVC.Models\obj\Debug\MVC.Models.dll
+C:\MVCUnitTesting\MVC.Models\obj\Debug\MVC.Models.pdb
